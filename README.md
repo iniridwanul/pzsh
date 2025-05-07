@@ -10,7 +10,7 @@ pzsh is a lightweight Zsh plugin that lets you launch a private Zsh shell sessio
 
 ## Installation
 ```shell
-git clone https://github.com/iniridwanul/pzsh ~/.oh-my-zsh/custom/plugins
+git clone https://github.com/iniridwanul/pzsh ~/.oh-my-zsh/custom/plugins/pzsh
 ```
 Then add the plugin name to your `~/.zshrc` plugins list:
 ```shell
