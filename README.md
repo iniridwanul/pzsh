@@ -4,6 +4,7 @@ pzsh is a lightweight Zsh plugin that lets you launch a private Zsh shell sessio
 ## Features
 
 - Launch a **private shell session** using the `pzsh` command
+- Uses a separate `.pzsh_history` file instead of modifying your main `.zsh_history`
 - Disables in-memory and file-based command history
 - Prevents `pzsh` itself from being saved in `.zsh_history`
 - Simple, clean, and fast no external dependencies
